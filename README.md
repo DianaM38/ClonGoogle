@@ -1,7 +1,7 @@
 # ClonGoogle
 Copia de la interfaz de google con HTML5 y CSS3
 ## INDICE
-1. Introduccion
+1. Introduccion 
 2. Que construí
 3. Objetivo del proyecto
 4. Link a demo
