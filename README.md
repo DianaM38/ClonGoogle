@@ -24,7 +24,7 @@ Las tecnologias que utilice, son:
 Practicar las etiquetas estandar de html y css.
 
 ### Link a demo
-EL siguiente link es el proyecto terminado: [ClonGoogle](#)
+EL siguiente link es el proyecto terminado: [ClonGoogle](https://clon-google-kappa.vercel.app/)
 
 
 
